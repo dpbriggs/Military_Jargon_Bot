@@ -1,0 +1,300 @@
+
+11B - Army Infantryman
+
+12B - Combat Engineer
+
+13F - Forward Observer
+
+42R- Army Band person
+
+54B - Chemical operations
+
+68W - Army Medic
+
+74D - Chemical operations
+
+88M/N - Motor transport operator/coordinator
+
+A2C2 - Army Airspace Command and control 
+
+AAA - Anti Aircraft Artillery 
+
+AAIED - Anti-Armor Improvised Explosive Device
+
+AAM - Air to Air Missile
+
+ACU - Army Combat Uniform
+
+ADA - Air Defense Artillery
+
+AG - Adjutant General
+
+AGL - Above Ground Level 
+
+AGM - Air To Ground Missile 
+
+AI - Air Interdiction 
+
+AIT - Advanced Individual Training
+
+AMRAAM - Advanced Medium arrange 
+
+ANA - Afghan National Army
+
+ANP - Afghan National Police
+
+AO - Area of Operations 
+
+AOR - Area of Responsibility 
+
+AQI/ISI - Al Qaeda in Iraq or Islamic State of Iraq (same organization, different name)
+
+ASAP - As Soon As Possible
+
+ASVAB - Armed Services Vocational Aptitude Battery. A test that determines which MOS you qualify for
+
+ATC - Air Traffic Control 
+
+ATO - Air Tasking Order 
+
+AWOL - Absent without leave
+
+Bag - Flight Suit
+
+BC - Battalion Commander
+
+BCG'S - Basic Combat Glasses (aka Birth Control Glasses)
+
+BDA - Battle Damage Assessment 
+
+BDU - Battle Dress Uniform, predecessor to the ACU
+
+BONE - B1B Lancer
+
+BRM - Basic Rifle Marksmanship
+
+C4I - Command Control Communications Computers & Intelligence 
+
+CAC - Common Access Card. Issued by military as identification.
+
+CAS - Close Air Support 
+
+CBRNE - Chemical Biological Nuclear Environment
+
+CCT - Combat Controller
+
+CEB - Generally, Combat Engineer Battalion/Brigade. Also, Combined Effects Bomb
+
+CJTF - Combined Joint Task Force
+
+COG - Center of Gravity 
+
+CONUS - Continental United States 
+
+CQ - Charge of Quarters
+
+CSAR - Combat Search and Rescue 
+
+DARPA - Defense Advanced Research Projects Agency 
+
+DFAC - Dining facility
+
+DOD - Department of Defence
+
+DS - Drill Sergeant
+
+ECM - Electronic Counter Measures 
+
+EFP - Explosively Formed Penetrator/Projectile
+
+EOD - Explosive Ordnance Disposal
+
+ETS - Expiration, Term of Service
+
+F.O.s/13Fs HE - High Explosive Blue Falcon
+
+FAC-A - Forward Air Controller Airborne
+
+FEBA - Forward Edge of the Battle Area 
+
+FIST - Fire Support Team
+
+FLA - Field Litter Ambulance
+
+FLIR - Forward Looking Infrared 
+
+FMF - Fleet Marine Force
+
+FMV - Full Motion Video 
+
+FO - Forward Observer
+
+FSE - Fire Support Element 
+
+FSG - Family Support Group
+
+FTX - Field training exercise
+
+G-BOSS - Ground Based Operational Surveillance System
+
+GBU - Guided Bomb Unit 
+
+GMT - Greenwich Mean Time 
+
+GPS - Global Positioning System 
+
+HAGA - Huge Ass Ground Ambulance
+
+HEAT - High Explosive Anti Tank 
+
+HM1 - Hospital Corpsman, Petty Officer First Class
+
+HMC - Chief Hospital Corpsman
+
+HMFIC - Head MotherFucker In Charge
+
+HMMWV - High Mobility Multi Wheeled Vehicle
+
+HUD - Heads Up Display 
+
+HVT - High Value Target 
+
+IA/IP - Iraqi Army/Police
+
+IED - Improvised Explosive Device 
+
+IJC - ISAF Joint Command
+
+IP - Isolated Personnel 
+
+ISAF - International Security Assistance Force
+
+ISR - Intelligence Surveillance and Reconnaissance 
+
+JDAM - Joint Direct Attack Munitions 
+
+JTAC - Joint Terminal Attack Controller
+
+JTF - Joint Task Force 
+
+LNO - Liaison Officer
+
+LOS - Line of Sight 
+
+MANPADS - Man Portable Air Defense System 
+
+MFWIC - Mother Fucker Who/Whats In Charge
+
+MIRC - Multi-User Internet Relay Chat 
+
+MNF-I - Multi National Forces-Iraq
+
+MP - Military Police
+
+MRAP - Mine Resistant Ambush Protected
+
+MRE - Meal Ready to Eat 
+
+MSL - Mean Sea Level 
+
+NBC/CBRN - Chemical, Biological, Radiological, Nuclear
+
+NCO - Non-commissioned officer
+
+NCOER/OER - NCO Evaluation Report/Officer Evaluation Report
+
+NSW - Naval Special Warfare
+
+OEF - Operation Enduring Freedom
+
+OGA - Other Government Agencies
+
+OIF - Operation Iraqi Freedom
+
+OND - Operation New Dawn
+
+ORS - Operation Resolute Support, US name for post-2014 ops in AFG (often seen as just RS)
+
+PAC - Personnel Administration Center.
+
+PCC's - Pre-Combat Checks
+
+PCI's - Pre-Combat Inspections
+
+PEB - Pre Engineered Buildings or Physical Evaluation Board
+
+PGM - Precision Guided Munitions 
+
+PID - Positive Identification 
+
+PJ - Pararescue Jumper
+
+PL - Platoon Leader, Lieutenant
+
+POTUS - President of atheists United States PR Personnel Recovery 
+
+PTT - Push To Talk ROE Rules of Engagement 
+
+PX - Post exchange
+
+QRF - Quick Reaction Force
+
+RCP - Route Clearance Package
+
+ROMAD - Radio Operator Maintainer and Driver
+
+RPA - Remotely Piloted Aircraft 
+
+RTB - Return To Base 
+
+RUMINT - Rumour Intelligence (aka the Rumour mill)
+
+S-1 - Personnel Office, Battalion level
+
+SALUTE - Size Activity Location Uniform Time Equipment 
+
+SCIF - Secret Compartmented Information Facility 
+
+SEAD - Suppression of Enemy Air Defense 
+
+SF - Special Forces (Army Green Berets)
+
+SOF - Special Operations Forces 
+
+SOWT - Special Operations Weather
+
+SPINS - Special Instructions 
+
+Spooky, Spectre, Ghost Rider - AC130 Gunship
+
+Squirters - Individuals fleeing a raid
+
+SSE - Sensitive Site Exploitation. (Forensic search)
+
+STD - Strike To Develop
+
+TACP - Tactical Air Control Party
+
+TDY - Temporary Duty
+
+TF - Task Force
+
+TOD - Time of Day 
+
+TOT - Time On Target 
+
+TST - Time Sensitive Target 
+
+TTI - Time To Impact 
+
+TTP - Tactics Techniques and Procedures 
+
+UA - Unauthorized Absence. Similar to AWOL but for Navy/Marine.
+
+UCMJ - Uniform Code of Military Justice 
+
+UXO - Unexploded Ordnance
+
+WP - White Phosphorus
+
+XO - Executive Officer

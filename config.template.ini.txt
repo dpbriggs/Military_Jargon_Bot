@@ -1,0 +1,13 @@
+##This is a template for the Military Jargon Bot
+
+[info]
+
+#Reddit user name
+username = 
+
+#Reddit password
+password = 
+
+#User agent (tell reddit what your bot is)
+
+user_agent = 'A bot dedicated to translating military jargon for new comers'
