@@ -56,7 +56,7 @@ class Military_Jargon(object):
                                         
         matches = [list(v) for i, v in groupby(matches, key=lambda t: t[0])]
         comment_bucket = []
-        comment_start = '\n\n#This is an automated translation so there may be some errors. \n\n ***** \n\n'
+        comment_start = '\n\n#This is an automated translation so there may be some errors. [Source](https://github.com/iMultiPlay/Military_Jargon_Bot)\n\n ***** \n\n'
         comment_end = '\n\n ***** \n\n###Please reply or PM if I did something incorrect or missed some jargon \n\n`Bot by /u/Davess1`'
         for threads in matches:
             comment =  'Jargon | Translation \n :----|:----- \n '
