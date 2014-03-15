@@ -54,9 +54,10 @@ class Military_Jargon(object):
                 if k in self.jargon and k != '':
                     #Append post, the jargon, and the explaination
                     matches.append((self.stories[i][0], k, self.jargon[k]))
+            
         
-        matches = [list(v) for i, v in groupby(matches, key=lambda t: t[0])]
-                
+        matches = [sorted(x,key=lambda t: t[1]) for x in [list(v) for i, v in groupby(matches, key=lambda t: t[0])]]
+        
         comment_bucket = []
         comment_start = '\n\n#This is an automated translation so there may be some errors. [Source](https://github.com/iMultiPlay/Military_Jargon_Bot)\n\n ***** \n\n'
         comment_end = '\n\n ***** \n\n###Please reply or PM if I did something incorrect or missed some jargon \n\nBot by /u/Davess1'
@@ -66,7 +67,8 @@ class Military_Jargon(object):
                 if jargon[2] not in comment:
                     comment = comment + jargon[1] + ' |' + jargon[2] + ' \n '
             comment_bucket.append((threads[0][0], comment_start+comment+comment_end))
-            
+        global q
+        q = matches
         return comment_bucket
         
     def get_threads(self):
