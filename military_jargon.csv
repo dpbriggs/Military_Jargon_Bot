@@ -144,12 +144,12 @@ HMC,Chief Hospital Corpsman
 ,
 BDU,"Battle Dress Uniform, predecessor to the ACU"
 ,
-NCOER/OER,NCO Evaluation Report/Officer Evaluation Report
-,
+NCOER,NCO Evaluation Report/Officer Evaluation Report
+OER,Officer Evaluation Report
 BC,Battalion Commander
 ,
-NBC/CBRN,"Chemical, Biological, Radiological, Nuclear"
-,
+NBC,"Chemical, Biological, Radiological, Nuclear"
+CBRN,"Chemical, Biological, Radiological, Nuclear"
 SALUTE,Size Activity Location Uniform Time Equipment 
 ,
 BDA,Battle Damage Assessment 
@@ -176,8 +176,8 @@ ASVAB,Armed Services Vocational Aptitude Battery. A test that determines which M
 ,
 HUD,Heads Up Display 
 ,
-F.O.s/13FsHE,High Explosive Blue Falcon
-,
+F.O.s,High Explosive Blue Falcon
+13FsHE,High Explosive Blue Falcon
 MANPADS,Man Portable Air Defense System 
 ,
 MRAP,Mine Resistant Ambush Protected
@@ -210,7 +210,7 @@ ANP,Afghan National Police
 ,
 ROMAD,Radio Operator Maintainer and Driver
 ,
-HEAT,High Explosive Anti Tank 
+HEAT,High Explosive Anti Tank (or Temperature)
 ,
 CAS,Close Air Support 
 ,
@@ -304,3 +304,7 @@ C4,Plastic Explosive
 HQ,Head Quarters
 ,
 NVA,North Vietnamese Army 
+,
+CO,Commanding Officer
+,
+OG,Original Gansta
