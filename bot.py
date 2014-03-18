@@ -32,7 +32,7 @@ class Military_Jargon(object):
         global k
         k = self.matched_jargon
         #Reply to all threads found with Jargon
-        #self.post_comment()
+        self.post_comment()
         
     def post_comment(self):
         #Iterate through list and check if it wasn't already replied too
