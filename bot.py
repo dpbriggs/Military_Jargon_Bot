@@ -85,7 +85,7 @@ class Military_Jargon(object):
         #Get top threads and break text up for iterating later
         hold = []
         subreddit = self.r.get_subreddit('militarystories')
-        for posts in subreddit.get_hot(limit=15):
+        for posts in subreddit.get_hot(limit=30):
             if posts.id not in self.previously_posted:
                 op_text = posts.selftext.upper() #all uppercase
                 op_text = ''.join([x for x in op_text if x.isalpha() or x.isspace()]) #Kill puncuation
